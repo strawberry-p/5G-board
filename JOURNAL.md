@@ -5,6 +5,7 @@ The roadtrip call finally gave me motivation to start. I quickly sketched out so
 
 # June 12th - Part research
 I came back from a trip and decided to look into extra parts for my keyboard. I´m going to add an analog stick for mouse controlling (I tend to forget my mouse sometimes, so this will come in useful :P). I found some joysticks in a local electronics shop for less than a dollar each, but i´m not sure about their quality. I also decided against using a TRRS connector for connecting the halves - it´s pretty and pretty small, but i´m very forgetful and would probably end up shorting it from unplugging. I am still indecisive on whether to go for a USB-C cable (with IIC or something like that run on the D+ and D- lines), or something like a 4P4C connector.
-![pctdetail 775-241 2](https://github.com/user-attachments/assets/d4edddd3-fb62-4268-92e1-429048ec867d)
-![pctdetail 775-028 1](https://github.com/user-attachments/assets/e6ce8aeb-4e4f-4eb1-aadf-3282741f1256)
+![joystick](https://github.com/user-attachments/assets/17cd8520-22aa-4bc4-b75a-05dde70d080c)
+![joystick_breakout](https://github.com/user-attachments/assets/d9fa709e-7fb9-4a3f-983f-4cd2801a261d)
+
 **Total time spent: about 1 hour**
